@@ -51,10 +51,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\leo-v\Desktop\pico_sdk\Teste
+CMAKE_SOURCE_DIR = C:\Users\leo-v\Desktop\pico_sdk\Medidor
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\leo-v\Desktop\pico_sdk\Teste\build
+CMAKE_BINARY_DIR = C:\Users\leo-v\Desktop\pico_sdk\Medidor\build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -83,18 +83,18 @@ rebuild_cache\fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd C:\Users\leo-v\Desktop\pico_sdk\Teste\build
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\leo-v\Desktop\pico_sdk\Teste\build\CMakeFiles C:\Users\leo-v\Desktop\pico_sdk\Teste\build\pico-sdk\\CMakeFiles\progress.marks
+	cd C:\Users\leo-v\Desktop\pico_sdk\Medidor\build
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\leo-v\Desktop\pico_sdk\Medidor\build\CMakeFiles C:\Users\leo-v\Desktop\pico_sdk\Medidor\build\pico-sdk\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) pico-sdk\all
-	cd C:\Users\leo-v\Desktop\pico_sdk\Teste\build\pico-sdk
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\leo-v\Desktop\pico_sdk\Teste\build\CMakeFiles 0
+	cd C:\Users\leo-v\Desktop\pico_sdk\Medidor\build\pico-sdk
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\leo-v\Desktop\pico_sdk\Medidor\build\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd C:\Users\leo-v\Desktop\pico_sdk\Teste\build
+	cd C:\Users\leo-v\Desktop\pico_sdk\Medidor\build
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) pico-sdk\clean
-	cd C:\Users\leo-v\Desktop\pico_sdk\Teste\build\pico-sdk
+	cd C:\Users\leo-v\Desktop\pico_sdk\Medidor\build\pico-sdk
 .PHONY : clean
 
 # The main clean target
@@ -104,23 +104,23 @@ clean\fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd C:\Users\leo-v\Desktop\pico_sdk\Teste\build
+	cd C:\Users\leo-v\Desktop\pico_sdk\Medidor\build
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) pico-sdk\preinstall
-	cd C:\Users\leo-v\Desktop\pico_sdk\Teste\build\pico-sdk
+	cd C:\Users\leo-v\Desktop\pico_sdk\Medidor\build\pico-sdk
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall\fast:
-	cd C:\Users\leo-v\Desktop\pico_sdk\Teste\build
+	cd C:\Users\leo-v\Desktop\pico_sdk\Medidor\build
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) pico-sdk\preinstall
-	cd C:\Users\leo-v\Desktop\pico_sdk\Teste\build\pico-sdk
+	cd C:\Users\leo-v\Desktop\pico_sdk\Medidor\build\pico-sdk
 .PHONY : preinstall\fast
 
 # clear depends
 depend:
-	cd C:\Users\leo-v\Desktop\pico_sdk\Teste\build
+	cd C:\Users\leo-v\Desktop\pico_sdk\Medidor\build
 	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
-	cd C:\Users\leo-v\Desktop\pico_sdk\Teste\build\pico-sdk
+	cd C:\Users\leo-v\Desktop\pico_sdk\Medidor\build\pico-sdk
 .PHONY : depend
 
 # Help Target
@@ -142,8 +142,8 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd C:\Users\leo-v\Desktop\pico_sdk\Teste\build
+	cd C:\Users\leo-v\Desktop\pico_sdk\Medidor\build
 	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
-	cd C:\Users\leo-v\Desktop\pico_sdk\Teste\build\pico-sdk
+	cd C:\Users\leo-v\Desktop\pico_sdk\Medidor\build\pico-sdk
 .PHONY : cmake_check_build_system
 

@@ -51,10 +51,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\leo-v\Desktop\pico_sdk\Teste
+CMAKE_SOURCE_DIR = C:\Users\leo-v\Desktop\pico_sdk\Medidor
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\leo-v\Desktop\pico_sdk\Teste\build
+CMAKE_BINARY_DIR = C:\Users\leo-v\Desktop\pico_sdk\Medidor\build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -83,9 +83,9 @@ edit_cache\fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\leo-v\Desktop\pico_sdk\Teste\build\CMakeFiles C:\Users\leo-v\Desktop\pico_sdk\Teste\build\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\leo-v\Desktop\pico_sdk\Medidor\build\CMakeFiles C:\Users\leo-v\Desktop\pico_sdk\Medidor\build\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\leo-v\Desktop\pico_sdk\Teste\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\leo-v\Desktop\pico_sdk\Medidor\build\CMakeFiles 0
 .PHONY : all
 
 # The main clean target

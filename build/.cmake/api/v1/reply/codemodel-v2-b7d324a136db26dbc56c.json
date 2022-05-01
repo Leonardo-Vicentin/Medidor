@@ -816,7 +816,7 @@
 					"source" : "C:/Users/leo-v/Desktop/pico_sdk/pico-sdk/docs"
 				}
 			],
-			"name" : "Release",
+			"name" : "Debug",
 			"projects" : 
 			[
 				{
@@ -924,35 +924,35 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ELF2UF2Build::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ELF2UF2Build-Release-a7f6cd9a1fc377858dd3.json",
+					"jsonFile" : "target-ELF2UF2Build-Debug-a7f6cd9a1fc377858dd3.json",
 					"name" : "ELF2UF2Build",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "blink::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-blink-Release-190836dcd32e691fa13b.json",
+					"jsonFile" : "target-blink-Debug-eee99b549d31afd0bd38.json",
 					"name" : "blink",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 43,
 					"id" : "bs2_default::@bc554eaed616d198a22d",
-					"jsonFile" : "target-bs2_default-Release-240a29b29b30508077b1.json",
+					"jsonFile" : "target-bs2_default-Debug-a466aea74d3b9bd95e3a.json",
 					"name" : "bs2_default",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 43,
 					"id" : "bs2_default_bin::@bc554eaed616d198a22d",
-					"jsonFile" : "target-bs2_default_bin-Release-8e2c0e26bb5c671fadf8.json",
+					"jsonFile" : "target-bs2_default_bin-Debug-8e2c0e26bb5c671fadf8.json",
 					"name" : "bs2_default_bin",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 43,
 					"id" : "bs2_default_padded_checksummed_asm::@bc554eaed616d198a22d",
-					"jsonFile" : "target-bs2_default_padded_checksummed_asm-Release-5f8d33552f6415645f0d.json",
+					"jsonFile" : "target-bs2_default_padded_checksummed_asm-Debug-5f8d33552f6415645f0d.json",
 					"name" : "bs2_default_padded_checksummed_asm",
 					"projectIndex" : 1
 				}
@@ -962,8 +962,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/leo-v/Desktop/pico_sdk/Teste/build",
-		"source" : "C:/Users/leo-v/Desktop/pico_sdk/Teste"
+		"build" : "C:/Users/leo-v/Desktop/pico_sdk/Medidor/build",
+		"source" : "C:/Users/leo-v/Desktop/pico_sdk/Medidor"
 	},
 	"version" : 
 	{

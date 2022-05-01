@@ -183,7 +183,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "Release"
+			"value" : "Debug"
 		},
 		{
 			"name" : "CMAKE_CACHEFILE_DIR",
@@ -195,7 +195,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/leo-v/Desktop/pico_sdk/Teste/build"
+			"value" : "c:/Users/leo-v/Desktop/pico_sdk/Medidor/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -295,10 +295,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "CXX compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/arm-none-eabi-g++.exe"
 		},
 		{
@@ -423,10 +423,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "C compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/arm-none-eabi-gcc.exe"
 		},
 		{
@@ -743,7 +743,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/leo-v/Desktop/pico_sdk/Teste"
+			"value" : "C:/Users/leo-v/Desktop/pico_sdk/Medidor"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1467,7 +1467,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : " C:/Users/leo-v/Desktop/pico_sdk/pico-sdk/src/rp2_common/cmsis C:/Users/leo-v/Desktop/pico_sdk/pico-sdk/src/rp2040/hardware_regs C:/Users/leo-v/Desktop/pico_sdk/pico-sdk/src/rp2_common/cmsis C:/Users/leo-v/Desktop/pico_sdk/pico-sdk/src/rp2040/hardware_regs C:/Users/leo-v/Desktop/pico_sdk/pico-sdk/src/rp2_common/cmsis C:/Users/leo-v/Desktop/pico_sdk/pico-sdk/src/rp2040/hardware_regs C:/Users/leo-v/Desktop/pico_sdk/pico-sdk/src/rp2_common/cmsis C:/Users/leo-v/Desktop/pico_sdk/pico-sdk/src/rp2040/hardware_regs C:/Users/leo-v/Desktop/pico_sdk/pico-sdk/src/rp2_common/cmsis C:/Users/leo-v/Desktop/pico_sdk/pico-sdk/src/rp2040/hardware_regs C:/Users/leo-v/Desktop/pico_sdk/pico-sdk/src/rp2_common/cmsis C:/Users/leo-v/Desktop/pico_sdk/pico-sdk/src/rp2040/hardware_regs C:/Users/leo-v/Desktop/pico_sdk/pico-sdk/src/rp2_common/cmsis C:/Users/leo-v/Desktop/pico_sdk/pico-sdk/src/rp2040/hardware_regs C:/Users/leo-v/Desktop/pico_sdk/pico-sdk/src/rp2_common/cmsis C:/Users/leo-v/Desktop/pico_sdk/pico-sdk/src/rp2040/hardware_regs"
+			"value" : " C:/Users/leo-v/Desktop/pico_sdk/pico-sdk/src/rp2_common/cmsis C:/Users/leo-v/Desktop/pico_sdk/pico-sdk/src/rp2040/hardware_regs"
 		},
 		{
 			"name" : "PICO_DOXYGEN_PATHS",
@@ -1695,7 +1695,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/leo-v/Desktop/pico_sdk/Teste/build"
+			"value" : "C:/Users/leo-v/Desktop/pico_sdk/Medidor/build"
 		},
 		{
 			"name" : "blink_SOURCE_DIR",
@@ -1707,7 +1707,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/leo-v/Desktop/pico_sdk/Teste"
+			"value" : "C:/Users/leo-v/Desktop/pico_sdk/Medidor"
 		},
 		{
 			"name" : "pico_sdk_BINARY_DIR",
@@ -1719,7 +1719,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/leo-v/Desktop/pico_sdk/Teste/build/pico-sdk"
+			"value" : "C:/Users/leo-v/Desktop/pico_sdk/Medidor/build/pico-sdk"
 		},
 		{
 			"name" : "pico_sdk_SOURCE_DIR",

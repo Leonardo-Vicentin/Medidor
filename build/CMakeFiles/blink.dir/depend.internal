@@ -2108,7 +2108,7 @@ CMakeFiles/blink.dir/C_/Users/leo-v/Desktop/pico_sdk/pico-sdk/src/rp2_common/pic
  generated/pico_base/pico/config_autogen.h
  generated/pico_base/pico/version.h
 CMakeFiles/blink.dir/blink.c.obj
- C:/Users/leo-v/Desktop/pico_sdk/Teste/blink.c
+ C:/Users/leo-v/Desktop/pico_sdk/Medidor/blink.c
  C:/Users/leo-v/Desktop/pico_sdk/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/leo-v/Desktop/pico_sdk/pico-sdk/src/common/pico_base/include/pico.h
  C:/Users/leo-v/Desktop/pico_sdk/pico-sdk/src/common/pico_base/include/pico/assert.h
