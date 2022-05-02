@@ -12,7 +12,7 @@ for g in range(4):
 
 
   a=ser.read_until(b"7000\r")
-  for i in range(2001):
+  for i in range(2002):
     line = ser.readline()   # read a byte
 
     if line:
